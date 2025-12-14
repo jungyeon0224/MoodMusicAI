@@ -1,0 +1,14 @@
+{
+  "positive": [
+    { "title": "Happy Day", "artist": "Sunshine", "url": "https://www.youtube.com/results?search_query=happy+day+song" },
+    { "title": "Smile Again", "artist": "Sky", "url": "https://www.youtube.com/results?search_query=smile+again+song" }
+  ],
+  "neutral": [
+    { "title": "Focus Beats", "artist": "Studio", "url": "https://www.youtube.com/results?search_query=focus+beats" },
+    { "title": "Study Flow", "artist": "Ambient", "url": "https://www.youtube.com/results?search_query=study+flow" }
+  ],
+  "negative": [
+    { "title": "Calm Rain", "artist": "Blue", "url": "https://www.youtube.com/results?search_query=calm+rain+music" },
+    { "title": "Midnight Blue", "artist": "Sleep", "url": "https://www.youtube.com/results?search_query=midnight+blue+calm" }
+  ]
+}
